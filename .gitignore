@@ -1,0 +1,7 @@
+*.csv
+venv
+amp_env
+example_test_files
+data
+.DS_Store
+*.so
